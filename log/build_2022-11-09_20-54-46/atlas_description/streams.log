@@ -1,0 +1,77 @@
+[0.079s] Invoking command in '/home/kcpham/133ws/build/atlas_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kcpham/133ws/install/hw5code:/home/kcpham/133ws/install/hw4code:/home/kcpham/133ws/install/hw3code:/opt/ros/humble /usr/bin/cmake --build /home/kcpham/133ws/build/atlas_description -- -j4 -l4
+[0.738s] Invoked command in '/home/kcpham/133ws/build/atlas_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kcpham/133ws/install/hw5code:/home/kcpham/133ws/install/hw4code:/home/kcpham/133ws/install/hw3code:/opt/ros/humble /usr/bin/cmake --build /home/kcpham/133ws/build/atlas_description -- -j4 -l4
+[0.791s] Invoking command in '/home/kcpham/133ws/build/atlas_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kcpham/133ws/install/hw5code:/home/kcpham/133ws/install/hw4code:/home/kcpham/133ws/install/hw3code:/opt/ros/humble /usr/bin/cmake --install /home/kcpham/133ws/build/atlas_description
+[0.803s] -- Install configuration: ""
+[0.805s] -- Execute custom install script
+[0.807s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/launch/__init__.py
+[0.808s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/launch/viewatlas.launch.py
+[0.810s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes/base_link.mtl
+[0.811s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes/base_link.obj
+[0.812s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes/wheel.mtl
+[0.812s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes/wheel.obj
+[0.814s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/rviz/urdf.rviz
+[0.815s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/rviz/viewatlas.rviz
+[0.815s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/rviz/viewurdf.rviz
+[0.817s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/src/__init__.py
+[0.819s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/urdf/atlas.urdf
+[0.820s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/urdf/atlas_v5.urdf
+[0.821s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/urdf/atlasfixed.urdf
+[0.825s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/CMakeLists.txt
+[0.827s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/CMakeLists.txt
+[0.828s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/atlas_DRC_1.png
+[0.829s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/atlas_DRC_carbon_fiber.png
+[0.830s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/atlas_DRC_dark_1.png
+[0.836s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/atlas_cage_and_camera_diffuse_flat.jpg
+[0.837s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/drc_extremities_diffuse.jpg
+[0.840s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/drc_head_diffuse.png
+[0.840s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/drc_labels_1.jpg
+[0.842s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/drc_torso_head_diffuse.jpg
+[0.842s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/extremities_diffuse.png
+[0.843s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/extremities_diffuse_unplugged.jpg
+[0.844s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/right_leg_diffuse_unplugged.jpg
+[0.844s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/torso_diffuse.png
+[0.845s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/materials/textures/torso_diffuse_unplugged.jpg
+[0.848s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_clav.dae
+[0.848s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_farm.dae
+[0.849s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_foot.dae
+[0.849s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_hand.dae
+[0.850s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_larm.dae
+[0.850s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_lglut.dae
+[0.851s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_lleg.dae
+[0.852s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_scap.dae
+[0.853s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_talus.dae
+[0.854s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_uarm.dae
+[0.855s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_uglut.dae
+[0.856s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/l_uleg.dae
+[0.857s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/ltorso.dae
+[0.857s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/mtorso.dae
+[0.858s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/pelvis.dae
+[0.859s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_clav.dae
+[0.860s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_farm.dae
+[0.861s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_foot.dae
+[0.862s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_hand.dae
+[0.863s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_larm.dae
+[0.864s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_lglut.dae
+[0.864s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_lleg.dae
+[0.865s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_scap.dae
+[0.866s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_talus.dae
+[0.867s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_uarm.dae
+[0.868s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_uglut.dae
+[0.869s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/r_uleg.dae
+[0.870s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/meshes_unplugged/utorso.dae
+[0.870s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/ament_index/resource_index/package_run_dependencies/atlas_description
+[0.871s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/ament_index/resource_index/parent_prefix_path/atlas_description
+[0.872s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/environment/ament_prefix_path.sh
+[0.872s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/environment/ament_prefix_path.dsv
+[0.873s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/environment/path.sh
+[0.874s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/environment/path.dsv
+[0.875s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/local_setup.bash
+[0.875s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/local_setup.sh
+[0.877s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/local_setup.zsh
+[0.879s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/local_setup.dsv
+[0.879s] -- Symlinking: /home/kcpham/133ws/install/atlas_description/share/atlas_description/package.dsv
+[0.894s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/ament_index/resource_index/packages/atlas_description
+[0.895s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/cmake/atlas_descriptionConfig.cmake
+[0.896s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/cmake/atlas_descriptionConfig-version.cmake
+[0.896s] -- Up-to-date symlink: /home/kcpham/133ws/install/atlas_description/share/atlas_description/package.xml
+[0.899s] Invoked command in '/home/kcpham/133ws/build/atlas_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kcpham/133ws/install/hw5code:/home/kcpham/133ws/install/hw4code:/home/kcpham/133ws/install/hw3code:/opt/ros/humble /usr/bin/cmake --install /home/kcpham/133ws/build/atlas_description

@@ -1,0 +1,6 @@
+Invoking command in '/home/kcpham/133ws/build/atlas_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kcpham/133ws/src/atlas_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kcpham/133ws/install/atlas_description
+Invoked command in '/home/kcpham/133ws/build/atlas_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kcpham/133ws/src/atlas_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kcpham/133ws/install/atlas_description
+Invoking command in '/home/kcpham/133ws/build/atlas_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kcpham/133ws/build/atlas_description -- -j4 -l4
+Invoked command in '/home/kcpham/133ws/build/atlas_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kcpham/133ws/build/atlas_description -- -j4 -l4
+Invoking command in '/home/kcpham/133ws/build/atlas_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kcpham/133ws/build/atlas_description
+Invoked command in '/home/kcpham/133ws/build/atlas_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kcpham/133ws/build/atlas_description

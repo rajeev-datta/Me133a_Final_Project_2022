@@ -1,0 +1,27 @@
+[1.317s] Invoking command in '/home/kcpham/133ws/build/hw3code': PYTHONPATH=/home/kcpham/133ws/install/hw3code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw3code --editable --build-directory /home/kcpham/133ws/build/hw3code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw3code
+[1.612s] running develop
+[1.613s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.613s]   warnings.warn(
+[1.621s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.622s]   warnings.warn(
+[1.695s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.695s]   warnings.warn(
+[1.696s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.696s]   warnings.warn(
+[1.832s] running egg_info
+[1.833s] writing hw3code.egg-info/PKG-INFO
+[1.839s] writing dependency_links to hw3code.egg-info/dependency_links.txt
+[1.844s] writing entry points to hw3code.egg-info/entry_points.txt
+[1.844s] writing requirements to hw3code.egg-info/requires.txt
+[1.844s] writing top-level names to hw3code.egg-info/top_level.txt
+[1.847s] reading manifest file 'hw3code.egg-info/SOURCES.txt'
+[1.848s] writing manifest file 'hw3code.egg-info/SOURCES.txt'
+[1.855s] running build_ext
+[1.855s] Creating /home/kcpham/133ws/install/hw3code/lib/python3.10/site-packages/hw3code.egg-link (link to .)
+[1.855s] Installing hw3p3 script to /home/kcpham/133ws/install/hw3code/lib/hw3code
+[1.855s] Installing hw3p4 script to /home/kcpham/133ws/install/hw3code/lib/hw3code
+[1.855s] Installing hw3p5 script to /home/kcpham/133ws/install/hw3code/lib/hw3code
+[1.855s] 
+[1.855s] Installed /home/kcpham/133ws/build/hw3code
+[1.855s] running install_data
+[1.899s] Invoked command in '/home/kcpham/133ws/build/hw3code' returned '0': PYTHONPATH=/home/kcpham/133ws/install/hw3code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw3code --editable --build-directory /home/kcpham/133ws/build/hw3code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw3code

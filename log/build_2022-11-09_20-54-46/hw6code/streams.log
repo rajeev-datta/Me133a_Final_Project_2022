@@ -1,0 +1,40 @@
+[0.765s] Invoking command in '/home/kcpham/133ws/build/hw6code': PYTHONPATH=/home/kcpham/133ws/install/hw6code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw6code --editable --build-directory /home/kcpham/133ws/build/hw6code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw6code
+[1.038s] running develop
+[1.038s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.038s]   warnings.warn(
+[1.039s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.039s]   warnings.warn(
+[1.086s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.086s]   warnings.warn(
+[1.088s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.088s]   warnings.warn(
+[1.166s] running egg_info
+[1.166s] creating hw6code.egg-info
+[1.167s] writing hw6code.egg-info/PKG-INFO
+[1.168s] writing dependency_links to hw6code.egg-info/dependency_links.txt
+[1.168s] writing entry points to hw6code.egg-info/entry_points.txt
+[1.168s] writing requirements to hw6code.egg-info/requires.txt
+[1.168s] writing top-level names to hw6code.egg-info/top_level.txt
+[1.169s] writing manifest file 'hw6code.egg-info/SOURCES.txt'
+[1.170s] reading manifest file 'hw6code.egg-info/SOURCES.txt'
+[1.171s] writing manifest file 'hw6code.egg-info/SOURCES.txt'
+[1.175s] running build_ext
+[1.175s] Creating /home/kcpham/133ws/install/hw6code/lib/python3.10/site-packages/hw6code.egg-link (link to .)
+[1.175s] Installing KinematicChain script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.175s] Installing hw5p1sol script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.175s] Installing hw5p2sol script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.175s] Installing hw5p4sol script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.175s] Installing hw6p1 script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.176s] Installing hw6p2 script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.176s] Installing hw6p3 script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.176s] Installing hw6p4 script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.176s] Installing hw6p5 script to /home/kcpham/133ws/install/hw6code/lib/hw6code
+[1.177s] 
+[1.177s] Installed /home/kcpham/133ws/build/hw6code
+[1.177s] running install_data
+[1.177s] creating /home/kcpham/133ws/install/hw6code/share/ament_index
+[1.177s] creating /home/kcpham/133ws/install/hw6code/share/ament_index/resource_index
+[1.177s] creating /home/kcpham/133ws/install/hw6code/share/ament_index/resource_index/packages
+[1.177s] copying resource/hw6code -> /home/kcpham/133ws/install/hw6code/share/ament_index/resource_index/packages
+[1.177s] copying package.xml -> /home/kcpham/133ws/install/hw6code/share/hw6code
+[1.204s] Invoked command in '/home/kcpham/133ws/build/hw6code' returned '0': PYTHONPATH=/home/kcpham/133ws/install/hw6code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw6code --editable --build-directory /home/kcpham/133ws/build/hw6code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw6code

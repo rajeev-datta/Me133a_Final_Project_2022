@@ -1,0 +1,5 @@
+[console_scripts]
+hw3p3 = hw3code.hw3p3:main
+hw3p4 = hw3code.hw3p4:main
+hw3p5 = hw3code.hw3p5:main
+

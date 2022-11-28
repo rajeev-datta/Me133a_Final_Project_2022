@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+hw3code/Segments.py
+hw3code/__init__.py
+hw3code/hw3p3.py
+hw3code/hw3p4.py
+hw3code.egg-info/PKG-INFO
+hw3code.egg-info/SOURCES.txt
+hw3code.egg-info/dependency_links.txt
+hw3code.egg-info/entry_points.txt
+hw3code.egg-info/requires.txt
+hw3code.egg-info/top_level.txt
+hw3code.egg-info/zip-safe
+resource/hw3code

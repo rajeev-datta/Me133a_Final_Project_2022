@@ -1,0 +1,46 @@
+[1.412s] Invoking command in '/home/kcpham/133ws/build/hw5code': PYTHONPATH=/home/kcpham/133ws/install/hw5code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw5code --editable --build-directory /home/kcpham/133ws/build/hw5code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw5code
+[1.855s] running develop
+[1.886s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.886s]   warnings.warn(
+[1.889s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.889s]   warnings.warn(
+[2.000s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.000s]   warnings.warn(
+[2.001s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.001s]   warnings.warn(
+[2.158s] running egg_info
+[2.158s] creating hw5code.egg-info
+[2.159s] writing hw5code.egg-info/PKG-INFO
+[2.160s] writing dependency_links to hw5code.egg-info/dependency_links.txt
+[2.160s] writing entry points to hw5code.egg-info/entry_points.txt
+[2.160s] writing requirements to hw5code.egg-info/requires.txt
+[2.160s] writing top-level names to hw5code.egg-info/top_level.txt
+[2.163s] writing manifest file 'hw5code.egg-info/SOURCES.txt'
+[2.171s] reading manifest file 'hw5code.egg-info/SOURCES.txt'
+[2.172s] writing manifest file 'hw5code.egg-info/SOURCES.txt'
+[2.175s] running build_ext
+[2.175s] Creating /home/kcpham/133ws/install/hw5code/lib/python3.10/site-packages/hw5code.egg-link (link to .)
+[2.176s] Installing KinematicChain script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.177s] Installing hw4p3sol script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.177s] Installing hw4p4sol script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.178s] Installing hw5p1 script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.178s] Installing hw5p2 script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.178s] Installing hw5p2a script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.178s] Installing hw5p2b script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.178s] Installing hw5p3 script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.179s] Installing hw5p4 script to /home/kcpham/133ws/install/hw5code/lib/hw5code
+[2.179s] 
+[2.179s] Installed /home/kcpham/133ws/build/hw5code
+[2.179s] running install_data
+[2.180s] creating /home/kcpham/133ws/install/hw5code/share/ament_index
+[2.180s] creating /home/kcpham/133ws/install/hw5code/share/ament_index/resource_index
+[2.180s] creating /home/kcpham/133ws/install/hw5code/share/ament_index/resource_index/packages
+[2.180s] copying resource/hw5code -> /home/kcpham/133ws/install/hw5code/share/ament_index/resource_index/packages
+[2.181s] copying package.xml -> /home/kcpham/133ws/install/hw5code/share/hw5code
+[2.182s] creating /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.182s] copying meshes/GimbalBase.dae -> /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.182s] copying meshes/GimbalLowerArm.dae -> /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.182s] copying meshes/Cube.dae -> /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.182s] copying meshes/CubePlus.dae -> /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.182s] copying meshes/GimbalUpperArm.dae -> /home/kcpham/133ws/install/hw5code/share/hw5code/meshes
+[2.230s] Invoked command in '/home/kcpham/133ws/build/hw5code' returned '0': PYTHONPATH=/home/kcpham/133ws/install/hw5code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/133ws/install/hw5code --editable --build-directory /home/kcpham/133ws/build/hw5code/build --no-deps install_data --install-dir /home/kcpham/133ws/install/hw5code
