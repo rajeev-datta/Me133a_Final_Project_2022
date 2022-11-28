@@ -1,0 +1,7 @@
+[console_scripts]
+KinematicChainGravity = hw7code.KinematicChainGravity:main
+hw6p2sol = hw7code.hw6p2sol:main
+hw6p3sol = hw7code.hw6p3sol:main
+hw6p4sol = hw7code.hw6p4sol:main
+hw6p5sol = hw7code.hw6p5sol:main
+

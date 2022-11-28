@@ -1,0 +1,35 @@
+[0.902s] Invoking command in '/home/kcpham/Me133a_Final_Project_2022/build/hw7code': PYTHONPATH=/home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/Me133a_Final_Project_2022/install/hw7code --editable --build-directory /home/kcpham/Me133a_Final_Project_2022/build/hw7code/build --no-deps install_data --install-dir /home/kcpham/Me133a_Final_Project_2022/install/hw7code
+[1.157s] running develop
+[1.168s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.168s]   warnings.warn(
+[1.171s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.171s]   warnings.warn(
+[1.223s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.223s]   warnings.warn(
+[1.225s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.225s]   warnings.warn(
+[1.322s] running egg_info
+[1.322s] creating hw7code.egg-info
+[1.322s] writing hw7code.egg-info/PKG-INFO
+[1.324s] writing dependency_links to hw7code.egg-info/dependency_links.txt
+[1.325s] writing entry points to hw7code.egg-info/entry_points.txt
+[1.325s] writing requirements to hw7code.egg-info/requires.txt
+[1.325s] writing top-level names to hw7code.egg-info/top_level.txt
+[1.326s] writing manifest file 'hw7code.egg-info/SOURCES.txt'
+[1.329s] reading manifest file 'hw7code.egg-info/SOURCES.txt'
+[1.330s] writing manifest file 'hw7code.egg-info/SOURCES.txt'
+[1.332s] running build_ext
+[1.332s] Creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/python3.10/site-packages/hw7code.egg-link (link to .)
+[1.333s] Installing KinematicChainGravity script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+[1.333s] Installing hw6p2sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+[1.333s] Installing hw6p3sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+[1.333s] Installing hw6p4sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+[1.333s] Installing hw6p5sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+[1.334s] error: can't copy 'resource/hw7code': doesn't exist or not a regular file
+[1.334s] 
+[1.334s] Installed /home/kcpham/Me133a_Final_Project_2022/build/hw7code
+[1.334s] running install_data
+[1.334s] creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index
+[1.334s] creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index/resource_index
+[1.334s] creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index/resource_index/packages
+[1.364s] Invoked command in '/home/kcpham/Me133a_Final_Project_2022/build/hw7code' returned '1': PYTHONPATH=/home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/kcpham/Me133a_Final_Project_2022/install/hw7code --editable --build-directory /home/kcpham/Me133a_Final_Project_2022/build/hw7code/build --no-deps install_data --install-dir /home/kcpham/Me133a_Final_Project_2022/install/hw7code

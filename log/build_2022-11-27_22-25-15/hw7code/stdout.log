@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating hw7code.egg-info
+writing hw7code.egg-info/PKG-INFO
+writing dependency_links to hw7code.egg-info/dependency_links.txt
+writing entry points to hw7code.egg-info/entry_points.txt
+writing requirements to hw7code.egg-info/requires.txt
+writing top-level names to hw7code.egg-info/top_level.txt
+writing manifest file 'hw7code.egg-info/SOURCES.txt'
+reading manifest file 'hw7code.egg-info/SOURCES.txt'
+writing manifest file 'hw7code.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/python3.10/site-packages/hw7code.egg-link (link to .)
+Installing KinematicChainGravity script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+Installing hw6p2sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+Installing hw6p3sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+Installing hw6p4sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+Installing hw6p5sol script to /home/kcpham/Me133a_Final_Project_2022/install/hw7code/lib/hw7code
+
+Installed /home/kcpham/Me133a_Final_Project_2022/build/hw7code
+running install_data
+creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index
+creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index/resource_index
+creating /home/kcpham/Me133a_Final_Project_2022/install/hw7code/share/ament_index/resource_index/packages
